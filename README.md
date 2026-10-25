@@ -37,7 +37,7 @@ I like building small AI tools that solve a real problem for someone I know, and
 
 | Project | What it does |
 |---|---|
-| 🍵 **Tea recommender** | Tell it your mood and how you feel today → it suggests a tea. Built for my tea-loving family, now exploring a version for tea shops & cafés. |
+| 🍵 **[Tea recommender](https://github.com/haru-dev15/drink-recommender)** | Tell it your mood and how you feel today → it suggests a tea. Built for my tea-loving family, now exploring a version for tea shops & cafés. |
 | 📚 **AWS exam tutor** (Claude Skill) | Breaks down AWS certification questions line by line, explains every option, draws architecture diagrams, and keeps a study log. |
 | ✅ **Todo.md** (Claude Skill) | Captures "I need to…" from natural conversation into a categorized Markdown todo list, with priorities, dates and an HTML view. |
 
